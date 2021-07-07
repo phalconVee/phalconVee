@@ -22,5 +22,9 @@ Web Application Development, Mobile Application Development, Databases, Microser
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Why China Relishes the Idea of a Digital Currency](https://theamateurpolymath.com/2020/12/27/why-china-relishes-the-idea-of-a-digital-currency/?utm_source=rss&utm_medium=rss&utm_campaign=why-china-relishes-the-idea-of-a-digital-currency)
+- [The Agricultural Value Chain, Challenges and Digital Opportunities in Nigeria](https://theamateurpolymath.com/2020/06/24/the-agricultural-value-chain-challenges-and-opportunities-in-nigeria/?utm_source=rss&utm_medium=rss&utm_campaign=the-agricultural-value-chain-challenges-and-opportunities-in-nigeria)
+- [Belief Box](https://theamateurpolymath.com/2020/05/19/belief-box/?utm_source=rss&utm_medium=rss&utm_campaign=belief-box)
+- [Jump starting a market place — “The Chicken and Egg Problem”](https://theamateurpolymath.com/2020/05/19/jump-starting-a-market-place-the-chicken-and-egg-problem/?utm_source=rss&utm_medium=rss&utm_campaign=jump-starting-a-market-place-the-chicken-and-egg-problem)
+- [Twelve Pillars of Africa’s Future Success](https://theamateurpolymath.com/2020/05/19/twelve-pillars-of-africas-future-success/?utm_source=rss&utm_medium=rss&utm_campaign=twelve-pillars-of-africas-future-success)
 <!-- BLOG-POST-LIST:END -->
