@@ -20,3 +20,7 @@ Web Application Development, Mobile Application Development, Databases, Microser
 <br>
 <br>
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
