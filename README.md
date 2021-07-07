@@ -2,7 +2,7 @@
 
 ## I'm a Human, Entreprenuer, Developer, and Teacher from Nigeria.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my online publisher platfrom: [The Amatuer Polymath][https://theamateurpolymath.com]!
 - 🌱 I’m currently learning design patterns in decentralized applications, and Japanese 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects and building the future for sustainable business in emerging markets
