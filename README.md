@@ -1,10 +1,10 @@
-Hi 👋 My name is Ugochukwu H Ibecheozor
+Hi 👋 My name is Ugochukwu H. Ibecheozor
 =====================================
 
 Software Engineer, Product Manager and Entrepreneur
 -----------------------------
 
-Experienced software developer with a strong engineering background and over 8 years of experience in FinTech (Credit & Payments), KYC, PropTech, EdTech, E-commerce and Creative Automation.
+Software engineer and product architect with over 8 years of experience in FinTech (Credit, Payments & Tax), KYC, PropTech, EdTech, E-commerce and Creative Automation.
 
 * 🌍  I'm passionate about enabling prosperity through the products I build.
 * 🖥️  See my portfolio at [http://ugochukwu.xyz/](http://ugochukwu.xyz/)
