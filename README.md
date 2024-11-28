@@ -1,4 +1,4 @@
-Hi 👋 My name is Ugochukwu H. Ibecheozor
+Hi 👋 My name is Ugochukwu Ibecheozor
 =====================================
 
 Software Engineer, Product Manager and Entrepreneur
@@ -9,8 +9,7 @@ Software engineer and product architect with over 8 years of experience in FinTe
 * 🌍  I'm passionate about enabling prosperity through the products I build.
 * 🖥️  See my portfolio at [http://ugochukwu.xyz/](http://ugochukwu.xyz/)
 * ✉️  You can contact me at [phalconvee@gmail.com](mailto:phalconvee@gmail.com)
-* 🚀  I'm currently working on AI/ML solutions for sales automation sales and customer personalization and support pipelines for small and medium-sized businesses —both in stores and online.
-* 🧠  I'm learning Financial Modelling & Predictions with AI/ML.
+* 🧠  I'm currently working on AI/ML solutions for sales automation sales and customer personalization and support pipelines for small and medium-sized businesses —both in stores and online.
 * 🤝  I'm open to collaborating on ERC20 token and smart contract engineering for emerging markets.
 * ⚡  I love watching football, building hobby robots and ham radios, and playing guitar.
 
